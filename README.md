@@ -48,6 +48,19 @@ home.html, dan file css dengan nama style.css.
 
 Kemudian tambahkan kode CSS untuk membuat layoutnya
 
-![lab4 hasil 4](https://user-images.githubusercontent.com/57024231/115888029-ac62fb00-a47c-11eb-8ed1-54841a78f007.png)
+![lab4 hasil4](https://user-images.githubusercontent.com/57024231/115889195-ec76ad80-a47d-11eb-923d-ede0daac4322.png)
 
 selanjutnya membuka browser kembali lalu direfresh untuk melihat hasilnya.
+
+![lab4 html 4](https://user-images.githubusercontent.com/57024231/115889306-0617f500-a47e-11eb-80ac-11d28b2f77af.png)
+
+Kemudian selanjutnya mengatur navigasi.
+
+![lab4 css 33333](https://user-images.githubusercontent.com/57024231/115889378-14fea780-a47e-11eb-99b2-f49df88fc187.png)
+
+lanjut memasukkan kode css
+
+![lab4 hasil 4](https://user-images.githubusercontent.com/57024231/115888029-ac62fb00-a47c-11eb-8ed1-54841a78f007.png)
+
+berikut hasil yang sudah dibuat dari memasukkan kode html dan cssnya.
+
