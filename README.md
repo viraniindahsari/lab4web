@@ -52,17 +52,8 @@ Kemudian tambahkan kode CSS untuk membuat layoutnya
 
 selanjutnya membuka browser kembali lalu direfresh untuk melihat hasilnya.
 
-![lab4 html5](https://user-images.githubusercontent.com/57024231/115890135-d0274080-a47e-11eb-9a76-8d820ba9eb1b.png)
-
-Menambahkan Elemen lainnya pada Main Content,Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.
-
-![lab4 css 333333](https://user-images.githubusercontent.com/57024231/115890173-db7a6c00-a47e-11eb-9903-5e7b105f9a87.png)
-
-lanjut menambahkan kode css.
-
-![lab4 hasil 5](https://user-images.githubusercontent.com/57024231/115890218-ea611e80-a47e-11eb-8304-448291834c6e.png)
-
 berikut hasil yang sudah dibuat dari memasukkan kode html dan cssnya
+
 ![lab4 html 4](https://user-images.githubusercontent.com/57024231/115889306-0617f500-a47e-11eb-80ac-11d28b2f77af.png)
 
 Kemudian selanjutnya mengatur navigasi.
@@ -73,5 +64,16 @@ lanjut memasukkan kode css
 
 ![lab4 hasil 4](https://user-images.githubusercontent.com/57024231/115888029-ac62fb00-a47c-11eb-8ed1-54841a78f007.png)
 
-berikut hasil yang sudah dibuat dari memasukkan kode html dan cssnya.dan ini merupakan hasil akhir yang sudah sama dengan modul pratikum ke 4
+berikut hasil yang sudah dibuat dari memasukkan kode html dan cssnya.
 
+![lab4 html5](https://user-images.githubusercontent.com/57024231/115890135-d0274080-a47e-11eb-9a76-8d820ba9eb1b.png)
+
+Menambahkan Elemen lainnya pada Main Content,Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.
+
+![lab4 css 333333](https://user-images.githubusercontent.com/57024231/115890173-db7a6c00-a47e-11eb-9903-5e7b105f9a87.png)
+
+lanjut menambahkan kode css.
+
+![lab4 hasil 5](https://user-images.githubusercontent.com/57024231/115890218-ea611e80-a47e-11eb-8304-448291834c6e.png)
+
+berikut hasil yang sudah dibuat dari memasukkan kode html dan cssnya.dan ini merupakan hasil akhir yang sudah sama dengan modul pratikum ke 4
