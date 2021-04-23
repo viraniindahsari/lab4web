@@ -50,4 +50,4 @@ Kemudian tambahkan kode CSS untuk membuat layoutnya
 
 ![lab4 hasil 4](https://user-images.githubusercontent.com/57024231/115888029-ac62fb00-a47c-11eb-8ed1-54841a78f007.png)
 
-selanjutnya membuka browser kembali lalu direfresh untuk melihat hasilnya
+selanjutnya membuka browser kembali lalu direfresh untuk melihat hasilnya.
