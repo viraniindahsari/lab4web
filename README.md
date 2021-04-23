@@ -77,3 +77,27 @@ lanjut menambahkan kode css.
 ![lab4 hasil 5](https://user-images.githubusercontent.com/57024231/115890218-ea611e80-a47e-11eb-8304-448291834c6e.png)
 
 berikut hasil yang sudah dibuat dari memasukkan kode html dan cssnya.dan ini merupakan hasil akhir yang sudah sama dengan modul pratikum ke 4
+
+jawaban tugas 
+
+![lab4 tugas1](https://user-images.githubusercontent.com/57024231/115891429-47110900-a480-11eb-8760-a1c013287f65.png)
+
+membuat file baru dengan nama layout about
+
+![lab4 tugashasil1](https://user-images.githubusercontent.com/57024231/115891472-51cb9e00-a480-11eb-8885-70b76b6eb39b.png)
+
+dan ini hasil dari memasukkan kode dengan membuat layout sederhana 
+
+![lab4 tugas2](https://user-images.githubusercontent.com/57024231/115891548-65770480-a480-11eb-86b1-045c368e971e.png)
+
+selanjutnya yang ke 2 membuat form menu contact dengan mengisi nama email mesagge.
+
+![lab4 tugashasil2](https://user-images.githubusercontent.com/57024231/115891589-6e67d600-a480-11eb-9c42-ac4ffa6c48f4.png)
+
+dan ini hasil setelah membuat form menu contact saya memasukkan nama dan email serta mesaggenya.
+
+
+
+
+
+
