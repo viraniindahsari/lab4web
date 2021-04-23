@@ -39,3 +39,15 @@ selanjutnya memsaukkan kode css yang sama dengan contoh dimodul.
 
 berikut ini hasil perubahan yang sudah saya edit dan menambahkan kode css tadi
 
+![lab4 html4](https://user-images.githubusercontent.com/57024231/115887819-82113d80-a47c-11eb-8f19-09b426b1dbc0.png)
+
+Buat folder baru dengan nama lab4_layout, kemudian buatlah file baru didalamnya dengan nama 
+home.html, dan file css dengan nama style.css.
+
+![lab4 css 3333](https://user-images.githubusercontent.com/57024231/115887878-8fc6c300-a47c-11eb-9613-e0bb4a73a139.png)
+
+Kemudian tambahkan kode CSS untuk membuat layoutnya
+
+![lab4 hasil 4](https://user-images.githubusercontent.com/57024231/115888029-ac62fb00-a47c-11eb-8ed1-54841a78f007.png)
+
+selanjutnya membuka browser kembali lalu direfresh untuk melihat hasilnya
