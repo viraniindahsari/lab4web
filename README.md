@@ -5,6 +5,10 @@
 
 saya menambahkan beberapa kode html untuk membuat box warna ini
 
+![lab4 css 3](https://user-images.githubusercontent.com/57024231/115885708-66a53300-a47a-11eb-9907-5ebe1ea62cf3.png)
 
+selanjutnya untuk mendapatkan warna yang lebih bagus dan mengeditnya dengan menggunakkan css yang sudah dibuat dalam satu folder tersebut 
 
 ![lab4 hasil1](https://user-images.githubusercontent.com/57024231/115881901-6e62d880-a476-11eb-97ff-7ac2a83a9b66.png)
+
+diatas merupakan hasil dari yang saya buat menggunakan kode html dan css.
