@@ -96,6 +96,8 @@ selanjutnya yang ke 2 membuat form menu contact dengan mengisi nama email mesagg
 
 dan ini hasil setelah membuat form menu contact saya memasukkan nama dan email serta mesaggenya.
 
+selesai
+
 
 
 
